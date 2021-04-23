@@ -1,0 +1,14 @@
+body{
+	margin:0;
+
+}
+
+div{
+	background-color: #E4F9F5;
+	padding: 20px;
+
+}
+h1{
+	margin-top:0; /*  When the value is 0, no need to put pixels*/
+
+}
